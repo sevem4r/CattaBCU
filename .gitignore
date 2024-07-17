@@ -1,0 +1,13 @@
+/.settings
+/.cproject
+/.cproject_org
+/.project
+/.project_org
+/*.launch
+/*.cfg
+/*.log
+/*.ld
+/Release
+/Debug
+/CMSIS
+/startup
